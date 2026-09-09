@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+rover_state.json
+rover_state_temp.json
+rover_state_*.json
+
+.venv/
+venv/
