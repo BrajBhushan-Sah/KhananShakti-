@@ -1,0 +1,20 @@
+File: MQ2_clean_air.csv
+Total valid samples: 645
+Samples used: 645
+
+RAW ADC
+Average: 105.57108527131784
+Minimum: 99.15
+Maximum: 112.15
+Standard deviation: 1.3854995737294433
+
+ESP32 ADC VOLTAGE
+Average: 0.22924728682170545
+
+RECONSTRUCTED MODULE VOLTAGE
+Average: 0.34386015503875966
+Noise percentage: 1.3123854606294019 %
+
+| Sensor | Lower 3σ boundary | Upper 3σ boundary |
+| ------ | ----------------: | ----------------: |
+| MQ-2   |            101.41 |            109.73 |
